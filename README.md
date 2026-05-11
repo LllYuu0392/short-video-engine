@@ -1,6 +1,6 @@
-# 🏭 MiMo Content Factory
+# 🎬 Short Video Engine
 
-> 基于小米 MiMo 多模型协同的自媒体内容工厂 —— 从选题到配音到视频，5分钟出片。
+> 多模型协同短视频生产引擎 —— 从选题到配音到视频，5分钟出片。
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
